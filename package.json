@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "serve": "npx ts-node ./src/index",
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "lorem-ipsum": "^2.0.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
